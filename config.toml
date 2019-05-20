@@ -1,0 +1,84 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "Hugo Theme Yuki"
+theme = "hugo-theme-yuki"
+author = "Cyris"
+
+# Copyright notice. This will display on the footer.
+copyright = ""
+paginate = 10
+
+# Theme config
+[params]
+
+  # The content you want to be listed on list pages.
+  mainSections = ["post"]
+
+  # The information will display on the post pages.
+  author = "Ruch Klimatyczny — Wrocław"
+  description = "Short description"
+  authorwebsite = "https://example.com/"
+
+  # The path to your images
+  favicon = "images/logo.png"
+  logo = "images/logo.png"
+  avatar = ""
+  displayImg = "images/display.png"
+
+  # This will display on the index page
+  snsTitle = "Social"
+
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+
+# Navbar config
+[[menu.nav]]
+    name = "Ruch Klimatyczny — Wrocław"
+    url = "/"
+    weight = 1
+
+# [[menu.nav]]
+#     name = "BLOG"
+#     url = "/post"
+#     weight = 2
+
+[[menu.nav]]
+    name = "Strajk dla Ziemi"
+    url = "/strajk-dla-ziemi"
+    weight = 2
+
+[[menu.nav]]
+    name = "Obóz dla Klimatu"
+    url = "/oboz-dla-klimatu"
+    weight = 3
+
+[[menu.nav]]
+    name = "MSK"
+    url = "/msk"
+    weight = 4
+
+[[menu.nav]]
+    name = "Extinction Rebellion"
+    url = "/xr"
+    weight = 5
+
+# [[menu.nav]]
+#     name = "TAGS"
+#     url = "/tags/"
+#     weight = 4
+
+# Social accounts config (This will display on the index page)
+# [[menu.social]]
+#     name = "Example-1"
+#     url = "/"
+#     weight = 1
+
+# [[menu.social]]
+#     name = "Example-2"
+#     url = "/"
+#     weight = 2
+
+# [[menu.social]]
+#     name = "Example-3"
+#     url = "/"
+#     weight = 3

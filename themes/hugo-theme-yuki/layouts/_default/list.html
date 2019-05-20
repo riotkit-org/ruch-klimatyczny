@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+
+<div class="main-content">
+    {{ $baseurl := .Site.BaseURL | sanitizeurl }}
+    <div class="main-content__title title-type__custom u-font">
+        <h1 id="title">{{ .Title }}</h1>
+    </div>
+
+    <article>
+        <div class="main-content__posts index-posts">
+            {{ $currentPage := . }}
+            {{ if eq $currentPage.URL "/post/" }}
+                {{ range .Pages }}
+                <div class="index-posts__list">
+                    <div class="l-time"><a href="{{.Permalink}}">{{ .Date.Format "2006.01.02 15:04" }}</a></div>
+                    <div class="l-title"><a href="{{.Permalink}}">{{ .Title }}</a></div>
+                </div>
+                {{ end }}
+
+                <div class="index-paginate">
+                    {{ partial "pagination.html" . }}
+                </div>
+            {{ end }}
+
+            {{ $data := .Data }}
+            {{ range $key, $value := .Data.Terms }}
+            <span class="mpl-t-wrap">
+               <a href="{{ $baseurl }}/{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}
+                   <span>({{ len $value }})</span>
+               </a>
+            </span>
+            {{ end }}
+        </div>
+    </article>
+</div>
+
+{{ partial "footer.html" . }}

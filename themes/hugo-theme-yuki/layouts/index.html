@@ -1,0 +1,51 @@
+{{ partial "header.html" . }}
+
+<!-- Display image -->
+<!-- <div class="index-displayImg" style="background-image: url('{{ .Site.Params.displayImg | absURL }}')"></div> -->
+
+<div class="main-content">
+    <section class="main-content__title">
+    <h1 id="title">Ruch Klimatyczny — Wrocław</h1>
+    </section>
+
+    <div class="links">
+        <a href="/strajk-dla-ziemi" title="Strajk dla ziemi" style="background-image: url('images/earth-strike.png')"></a>
+        <a href="/oboz-dla-klimatu" title="Obóz dla klimatu" style="background-color: #252C4E; background-image: url('images/oboz-dla-klimatu.png')"></a>
+        <a href="/msk" title="Młodzieżowy Strajk Klimatyczny" style="background-color: #F7FCF6; background-image: url('images/msk.jpg')"></a>
+        <a href="/xr" title="Extinction Rebellion Polska" style="background-image: url('images/xr-logo.jpg')"></a>
+    </div>
+</div>
+
+<!-- Social accounts -->
+<!-- <div class="index-line u-font">
+    {{- with .Site.Params.snsTitle -}}
+    <span class="index-line__content u-font">{{ . }}</span>
+    {{- end -}}
+</div> -->
+<!-- <div class="index-sns u-font">
+    {{ range .Site.Menus.social }}
+    <a class="index-sns__name" target="_blank" href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+</div> -->
+
+<!-- Content list -->
+<!-- <div class="index-line u-font">
+    <span class="index-line__content u-font">Home</span>
+</div>
+<div class="index-posts">
+    {{ $posts := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ range (.Paginate $posts).Pages }}
+    <div class="index-posts__list">
+        <div class="l-time"><a href="{{.Permalink}}">{{ .Date.Format "2006.01.02 15:04" }}</a></div>
+        <div class="l-title"><a href="{{.Permalink}}">{{.Title}}</a></div>
+    </div>
+    {{ end }}
+
+    <div class="index-paginate">
+        {{ partial "pagination.html" . }}
+    </div>
+</div> -->
+
+
+
+{{ partial "footer.html" . }}
