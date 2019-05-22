@@ -3,181 +3,186 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/creating-a-new-theme/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/creating-a-new-theme/</loc>
+    <loc>https://klimatyczny.anarchista.net/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/migrate-from-jekyll/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/migrate-from-jekyll/</loc>
+    <loc>https://klimatyczny.anarchista.net/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/creation-dun-nouveau-theme/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/creation-dun-nouveau-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>https://klimatyczny.anarchista.net/pages/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/xr/</loc>
+    <loc>https://klimatyczny.anarchista.net/xr/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/msk/</loc>
+    <loc>https://klimatyczny.anarchista.net/msk/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/oboz-dla-klimatu/</loc>
+    <loc>https://klimatyczny.anarchista.net/oboz-dla-klimatu/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/goisforlovers/</loc>
+    <loc>https://klimatyczny.anarchista.net/strajk-dla-ziemi/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klimatyczny.anarchista.net/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/goisforlovers/</loc>
+    <loc>https://klimatyczny.anarchista.net/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/debuter-avec-hugo/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/debuter-avec-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hugoisforlovers/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/hugoisforlovers/</loc>
+    <loc>https://klimatyczny.anarchista.net/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/introduction-aux-modeles-hugo/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/introduction-aux-modeles-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://klimatyczny.anarchista.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://klimatyczny.anarchista.net/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/go/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://klimatyczny.anarchista.net/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/golang/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://klimatyczny.anarchista.net/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://klimatyczny.anarchista.net/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://klimatyczny.anarchista.net/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/jekyll/</loc>
+    <loc>https://klimatyczny.anarchista.net/categories/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://klimatyczny.anarchista.net/pages/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://klimatyczny.anarchista.net/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://klimatyczny.anarchista.net/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/templates/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://klimatyczny.anarchista.net/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Hugo Theme Yuki</title>
-    <link>http://localhost:1313/categories/hugo/</link>
+    <link>https://klimatyczny.anarchista.net/categories/hugo/</link>
     <description>Recent content in Hugo on Hugo Theme Yuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klimatyczny.anarchista.net/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Création d&#39;un nouveau thème</title>
-      <link>http://localhost:1313/post/creation-dun-nouveau-theme/</link>
+      <link>https://klimatyczny.anarchista.net/post/creation-dun-nouveau-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/creation-dun-nouveau-theme/</guid>
+      <guid>https://klimatyczny.anarchista.net/post/creation-dun-nouveau-theme/</guid>
       <description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
 Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
     </item>
     
     <item>
       <title>Débuter avec Hugo</title>
-      <link>http://localhost:1313/post/debuter-avec-hugo/</link>
+      <link>https://klimatyczny.anarchista.net/post/debuter-avec-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/debuter-avec-hugo/</guid>
+      <guid>https://klimatyczny.anarchista.net/post/debuter-avec-hugo/</guid>
       <description>&lt;h2 id=&#34;étape-1-installer-hugo&#34;&gt;Étape 1. Installer Hugo&lt;/h2&gt;
 
 &lt;p&gt;Allez sur la page de téléchargements de
@@ -37,15 +37,15 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 l&amp;rsquo;étape suivante.&lt;/p&gt;
 
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;https://klimatyczny.anarchista.net/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>http://localhost:1313/post/migrer-vers-hugo-depuis-jekyll/</link>
+      <link>https://klimatyczny.anarchista.net/post/migrer-vers-hugo-depuis-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/migrer-vers-hugo-depuis-jekyll/</guid>
+      <guid>https://klimatyczny.anarchista.net/post/migrer-vers-hugo-depuis-jekyll/</guid>
       <description>&lt;h2 id=&#34;déplacez-le-contenu-statique-vers-static&#34;&gt;Déplacez le contenu statique vers &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll a une règle comme quoi tout répertoire qui ne commence pas par &lt;code&gt;_&lt;/code&gt; sera
